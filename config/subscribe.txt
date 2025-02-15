@@ -18,4 +18,4 @@ https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://iptv.catvod.com/tv.m3u
 http://rihou.cc:555/gggg.nzk
 http://home.jundie.top:81/Cat/tv/live.txt
-
+https://raw.githubusercontent.com/rad168/iptv/main/live.m3u
