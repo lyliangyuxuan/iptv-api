@@ -21,5 +21,4 @@ http://home.jundie.top:81/Cat/tv/live.txt
 https://raw.githubusercontent.com/rad168/iptv/main/live.m3u
 https://tv.iill.top/m3u/Live
 https://tv.iill.top/m3u/Gather
-http://ww.zouming.com/ipv6.txt
 http://8.138.7.223/live.txt
