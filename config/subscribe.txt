@@ -26,3 +26,4 @@ http://112.74.115.68:35455/tv.m3u
 http://hangfun.top:35455/tv.m3u
 https://bit.ly/suxuang 
 http://youlin.dynv6.net:35455/tv.m3u
+http://114.66.63.22:8000/itv.m3u
