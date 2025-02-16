@@ -25,3 +25,4 @@ http://8.138.7.223/live.txt
 http://112.74.115.68:35455/tv.m3u
 http://hangfun.top:35455/tv.m3u
 https://bit.ly/suxuang 
+http://youlin.dynv6.net:35455/tv.m3u
