@@ -35,3 +35,5 @@ http://998969.xyz:35455/tv.m3u
 http://998969.xyz:35455/yylunbo.m3u
 http://lt.hxtre.com:35455/tv.m3u
 http://lt.hxtre.com:35455/yylunbo.m3u
+http://3501776.xyz:35455/tv.m3u
+http://3501776.xyz:35455/yylunbo.m3u
