@@ -39,3 +39,5 @@ http://3501776.xyz:35455/tv.m3u
 http://3501776.xyz:35455/yylunbo.m3u
 http://newtv.fun:35455/tv.m3u
 http://newtv.fun:35455/yylunbo.m3u
+http://13937899.xyz:35455/tv.m3u
+http://13937899.xyz:35455/yylunbo.m3u
