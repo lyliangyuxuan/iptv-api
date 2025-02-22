@@ -41,3 +41,14 @@ http://newtv.fun:35455/tv.m3u
 http://newtv.fun:35455/yylunbo.m3u
 http://13937899.xyz:35455/tv.m3u
 http://13937899.xyz:35455/yylunbo.m3u
+https://la1.wqwqwq.sbs/tv.m3u
+https://la1.wqwqwq.sbs/yylunbo.m3u
+https://live.wqwqwq.sbs/tv.m3u
+https://live.wqwqwq.sbs/yylunbo.m3u
+https://mc.wqwqwq.sbs/Sub?type=m3u
+https://lu.wqwqwq.sbs/tv.m3u
+https://lu.wqwqwq.sbs/yylunbo.m3u
+https://fytv.wqwqwq.sbs/tv.m3u
+https://fytv.wqwqwq.sbs/yylunbo.m3u
+https://mclu.wqwqwq.sbs/Sub?type=m3u
+
