@@ -28,6 +28,7 @@ https://bit.ly/suxuang
 http://youlin.dynv6.net:35455/tv.m3u
 http://114.66.63.22:8000/itv.m3u
 http://b.zgjok.com:35455/tv.m3u
+http://b.zgjok.com:35455/itv.m3u
 http://b.zgjok.com:35455/yylunbo.m3u
 http://www.douzhicloud.site:35455/tv.m3u
 http://www.douzhicloud.site:35455/yylunbo.m3u
@@ -52,4 +53,5 @@ https://fytv.wqwqwq.sbs/tv.m3u
 https://fytv.wqwqwq.sbs/yylunbo.m3u
 https://mclu.wqwqwq.sbs/Sub?type=m3u
 http://i.880824.xyz:35455/tv.m3u
+http://i.880824.xyz:35455/itv.m3u
 http://i.880824.xyz:35455/yylunbo.m3u
