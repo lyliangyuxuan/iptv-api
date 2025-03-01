@@ -56,3 +56,6 @@ http://i.880824.xyz:35455/tv.m3u
 http://i.880824.xyz:35455/itv.m3u
 http://i.880824.xyz:35455/yylunbo.m3u
 http://tac-server.top:5000/Sub?type=txt
+http://lt.hxtre.com:35455/tv.m3u
+http://lt.hxtre.com:35455/itv.m3u
+http://lt.hxtre.com:35455/yylunbo.m3u
