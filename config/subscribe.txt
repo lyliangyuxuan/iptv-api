@@ -61,3 +61,5 @@ http://lt.hxtre.com:35455/itv.m3u
 http://lt.hxtre.com:35455/yylunbo.m3u
 http://xhztv.top/cytx.txt
 https://zby.koyeb.app/Sub.m3u
+http://182.32.204.242:8011/txt
+http://60.178.83.2:8200/txt
