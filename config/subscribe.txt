@@ -63,3 +63,7 @@ http://xhztv.top/cytx.txt
 https://zby.koyeb.app/Sub.m3u
 http://182.32.204.242:8011/txt
 http://60.178.83.2:8200/txt
+http://home.wwang.pw:35455/tv.m3u
+http://home.wwang.pw:35455/itv.m3u
+http://home.wwang.pw:35455/yylunbo.m3u
+http://146.56.144.225:50001/Sub?type=m3u
