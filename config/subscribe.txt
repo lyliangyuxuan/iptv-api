@@ -70,3 +70,5 @@ http://146.56.144.225:50001/Sub?type=m3u
 http://www.douzhicloud.site:35455/tv.m3u
 http://www.douzhicloud.site:35455/itv.m3u
 http://www.douzhicloud.site:35455/yylunbo.m3u
+https://d.h6room.com/frjzb.txt
+http://kkk.jjjj.jiduo.me/user/tttt/api.txt
