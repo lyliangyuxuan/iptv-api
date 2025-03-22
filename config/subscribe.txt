@@ -72,3 +72,6 @@ http://www.douzhicloud.site:35455/itv.m3u
 http://www.douzhicloud.site:35455/yylunbo.m3u
 https://d.h6room.com/frjzb.txt
 http://kkk.jjjj.jiduo.me/user/tttt/api.txt
+http://xg.52sw.top/iptv/dns-itv.txt
+http://ttkx.cc:55/lib/kx2024.txt
+http://php.540734621.xyz/migu.txt
