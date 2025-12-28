@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-28 06:30:02,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-29 06:29:33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -651,7 +651,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-31.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-12.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-4.ctv
-广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-26.ctv
+广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-27.ctv
 江门综合,https://stream1.freetv.fun/jiang-men-zong-he-8.ctv
 江门综合,https://stream1.freetv.fun/jiang-men-zong-he-6.ctv
 江门综合,http://dslive.grtn.cn/jmzh/sd/live.m3u8
@@ -2333,6 +2333,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-2.ctv
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-6.ctv
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
+东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-2.m3u8
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv
@@ -2494,6 +2495,7 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-2.ctv
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-6.ctv
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
+东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-2.m3u8
 
 🎥咪咕直播,#genre#
 咪咕直播2,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
@@ -2618,7 +2620,7 @@ CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-31.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-12.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-4.ctv
-广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-26.ctv
+广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-27.ctv
 辽宁体育,https://stream1.freetv.fun/liao-zhu-ti-yu-5.m3u8
 辽宁体育,https://stream1.freetv.fun/liao-zhu-ti-yu-3.m3u8
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-8.m3u8
